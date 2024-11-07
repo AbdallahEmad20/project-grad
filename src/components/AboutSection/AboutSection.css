@@ -1,0 +1,10 @@
+
+/* // import AboutImage from "../../../public/assets/65af8beb6604134c82177827_pexels-julia-m-cameron-6994985.webp" */
+@keyframes scroll {
+    0% { transform: translateX(100%); }
+    100% { transform: translateX(-100%); }
+}
+
+.scrolling-banner {
+    animation: scroll 15s linear infinite;
+}
