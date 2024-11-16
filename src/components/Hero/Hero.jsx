@@ -34,6 +34,7 @@ const Hero = () => {
       </div>
     </div>
   </div>
+  <p>No oneeeeeeeeeeee can deny that </p>
 </section>
   )
 }
